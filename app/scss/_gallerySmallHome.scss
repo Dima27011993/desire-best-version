@@ -15,21 +15,7 @@ section.gallerySmallHome{
     }
 }
 
-section.gallerySmallHome .content__gallerySmallHome .content__gallerySmallHome_images img.background_image{
-    position: relative;
-    width: 350px;
-    height: 350px;
-    background: blue;
-}
-section.gallerySmallHome .content__gallerySmallHome .content__gallerySmallHome_images img.background_image:before{
-    position: absolute;
-    content: '';
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(69, 69, 76, 0.637);
-}
+
 
 
 
