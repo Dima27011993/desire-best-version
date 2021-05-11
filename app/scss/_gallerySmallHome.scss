@@ -1,8 +1,10 @@
 section.gallerySmallHome{
     margin-top: 24px;
+    margin-bottom: 104px;
 
     .content__gallerySmallHome{
         .content__gallerySmallHome_images{
+            position: relative;
             display: flex;
             justify-content: space-around;
 
@@ -14,9 +16,4 @@ section.gallerySmallHome{
         }
     }
 }
-
-
-
-
-
 
