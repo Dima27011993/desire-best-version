@@ -13,18 +13,23 @@ header{
 				justify-content: space-between;
 				align-items: center;
 
+				.img__navbar{
+					display: flex;
+					margin: 0 140px;
+
+					img{
+						display: flex;
+						width: 97px;
+						height: 31px;
+					}
+				}
+
 				li.navbar__content_menu_item{
 						a{
 							text-decoration: none;
 
 						}
-						.img__navbar{
-							display: flex;
-							margin: 0 140px;
-							img{
-
-							}
-						}
+				
 				
 				}
 				a.burger__navbar{
