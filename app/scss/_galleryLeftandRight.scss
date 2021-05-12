@@ -23,14 +23,15 @@ box-sizing: border-box;
         }
     }
     .content_Gallery{
-      display: flex;SS
+      display: flex;
     .left__Gallery{
         width: 50%;
         .image_Gallery_Left{
-            width: 100%;
+            width: 97%;
             img{
                 height: 1148px;
                 width: 100%;
+                margin-left: 25px;
             }
          
 
@@ -38,7 +39,7 @@ box-sizing: border-box;
         }
     }
     .right__Galery{
-        width: 50%;
+        width: 60%;
 
         .image_Gallery_Right{
           
@@ -46,7 +47,7 @@ box-sizing: border-box;
             flex-wrap: wrap;
             img{
                 box-sizing: border-box;
-                width: 474px;
+                width: 628px;
                 padding: 19px;
                 height: 583px;
             }
